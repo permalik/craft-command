@@ -1,2 +1,2 @@
-# yyyoink-command
-service:Compression, Binary, and LLM Toolkit Writes
+# craft-command
+service:LLM writes
